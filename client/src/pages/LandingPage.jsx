@@ -89,8 +89,9 @@ const LandingPage = () => {
 
 
           <div className="landingHero-title">
-            <h1 className="banner-h1">Embark on an Extraordinary Flight Booking Adventure!</h1>
-            <p className="banner-p">Unleash your travel desires and book extraordinary Flight journeys that will transport you to unforgettable destinations, igniting a sense of adventure like never before.</p>     
+            <h1 className="banner-h1">Plan Your Journey With Ease</h1>
+            <p className="banner-p">We go beyond booking. Delivering comfort, reliability, and value to millions of travelers every year.</p>     
+            <p className='banner-p'>Seamless flight booking experience at your fingertips.</p>
           </div>
 
           
@@ -119,6 +120,13 @@ const LandingPage = () => {
                         <option value="Kolkata">Kolkata</option>
                         <option value="varanasi">varanasi</option>
                         <option value="Jaipur">Jaipur</option>
+			                  <option value="Tirupathi">Tirupathi</option>
+			                  <option value="Visakhapatnam">Visakhapatnam</option>
+			                  <option value="Jammu">Jammu</option>
+			                  <option value="Amritsar">Amritsar</option>
+			                  <option value="Goa">Goa</option>
+			                  <option value="Guwahati">Guwahati</option>
+			                  <option value="Ahmedabad">Ahmedabad</option>	
                       </select>
                       <label htmlFor="floatingSelect">Departure City</label>
                     </div>
@@ -137,6 +145,13 @@ const LandingPage = () => {
                         <option value="Kolkata">Kolkata</option>
                         <option value="varanasi">varanasi</option>
                         <option value="Jaipur">Jaipur</option>
+			                  <option value="Tirupathi">Tirupathi</option>
+			                  <option value="Visakhapatnam">Visakhapatnam</option>
+			                  <option value="Jammu">Jammu</option>
+			                  <option value="Amritsar">Amritsar</option>
+			                  <option value="Goa">Goa</option>
+			                  <option value="Guwahati">Guwahati</option>
+			                  <option value="Ahmedabad">Ahmedabad</option>
                       </select>
                       <label htmlFor="floatingSelect">Destination City</label>
                     </div>
@@ -269,7 +284,7 @@ const LandingPage = () => {
                 &nbsp; &nbsp;&nbsp; &nbsp; With our Flight ticket booking app, you can embrace the joy of exploring new destinations, immerse yourself in breathtaking scenery, and create cherished memories along the way. Start your journey today and let us be your trusted companion in making your Flight travel dreams a reality. Experience the convenience, reliability, and comfort that our app offers, and embark on unforgettable Flight adventures with confidence.
             </p>
 
-            <span><h5>2023 SB FlightConnect - &copy; All rights reserved</h5></span>
+            <span><h5>2023 NK FlightConnect - &copy; All rights reserved</h5></span>
 
         </div>
     </section>

@@ -15,7 +15,7 @@ app.use(cors());
 // mongoose setup
 
 const PORT = 6001;
-mongoose.connect('mongodb://localhost:27017/FlightBookingMERN', { 
+mongoose.connect('mongodb+srv://nitishkumar:nitish456@cluster0.wstdds7.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0', { 
         useNewUrlParser: true,
         useUnifiedTopology: true,
     }

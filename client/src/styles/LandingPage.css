@@ -7,7 +7,7 @@
     width: 100%;
     height: 100vh;
     padding-top: 10vh;
-    background-image: linear-gradient(45deg, rgba(36, 59, 69, 0.489),rgba(0, 0, 0, 0.493)), url('../assets/HomeBG1.png');
+    background-image: linear-gradient(45deg, rgba(36, 59, 69, 0.489),rgba(0, 0, 0, 0.493)), url('/public/download.jpeg');
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
